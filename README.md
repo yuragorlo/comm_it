@@ -6,8 +6,8 @@ This project implements a regression model to predict a target based on 53 anony
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yuragorlo/comm_it.git
+   cd comm_it
    ```
 
 2. Create and activate a virtual environment:
